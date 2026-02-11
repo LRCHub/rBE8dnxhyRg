@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Think About It",
+  "base_artist": "guca owl",
+  "createdAt": "2026-02-11T16:05:39.411006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Think I Don't Think About It",
+      "artist": "Darius Rucker",
+      "has_synced": true,
+      "path": "select/01_Don't_Think_I_Don't_Think_About_It_Darius_Rucker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Think About It",
+      "artist": "The Yardbirds",
+      "has_synced": true,
+      "path": "select/02_Think_About_It_The_Yardbirds.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Think About It",
+      "artist": "Naughty Boy feat. Wiz Khalifa & Ella Eyre",
+      "has_synced": false,
+      "path": "select/03_Think_About_It_Naughty_Boy_feat._Wiz_Khalifa_&_Ella_Eyre.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Think About It - 2016 Remaster",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/04_Think_About_It_-_2016_Remaster_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Me Think About It - Fedde Le Grand Club Mix",
+      "artist": "Fedde Le Grand feat. Ida Corr",
+      "has_synced": false,
+      "path": "select/05_Let_Me_Think_About_It_-_Fedde_Le_Grand_Club_Mix_Fedde_Le_Grand_feat._Ida_Corr.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let Me Think About It (Celebration Mix)",
+      "artist": "Fedde Le Grand feat. Ida Corr",
+      "has_synced": true,
+      "path": "select/06_Let_Me_Think_About_It_(Celebration_Mix)_Fedde_Le_Grand_feat._Ida_Corr.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let Me Think About It (Remastered)",
+      "artist": "Fedde Le Grand feat. Ida Corr",
+      "has_synced": true,
+      "path": "select/07_Let_Me_Think_About_It_(Remastered)_Fedde_Le_Grand_feat._Ida_Corr.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Think About It",
+      "artist": "Flight of the Conchords",
+      "has_synced": true,
+      "path": "select/08_Think_About_It_Flight_of_the_Conchords.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Think About It",
+      "artist": "Flight of the Conchords",
+      "has_synced": false,
+      "path": "select/09_Think_About_It_Flight_of_the_Conchords.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Think About It (Sessions, Roughs & Outtakes)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/10_Think_About_It_(Sessions,_Roughs_&_Outtakes)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WHEN I THINK ABOUT IT",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/11_WHEN_I_THINK_ABOUT_IT_Future.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trying Not to Think About It",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/12_Trying_Not_to_Think_About_It_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Think About It",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/13_Think_About_It_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Alright (Don't Think About It)",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/14_It's_Alright_(Don't_Think_About_It)_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Think About It",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/15_Think_About_It_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'd Have to Think About It",
+      "artist": "Leith Ross",
+      "has_synced": true,
+      "path": "select/16_I'd_Have_to_Think_About_It_Leith_Ross.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Think About It",
+      "artist": "guca owl",
+      "has_synced": false,
+      "path": "select/pl_01_Think_About_It_guca_owl.txt"
+    }
+  ]
+}
